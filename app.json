@@ -42,6 +42,15 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.anonymous.quizplayio"
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "924ef488-d328-4966-b923-5be1bafe78cf"
+      }
+    },
+    "owner": "ahmad.khairul"
   }
 }
